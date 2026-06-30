@@ -12,6 +12,7 @@
 | [0213-house-robber-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0575-distribute-candies](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0978-longest-turbulent-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
+| [1306-jump-game-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2765-longest-alternating-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2765-longest-alternating-subarray) |
 | [3026-maximum-good-subarray-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3026-maximum-good-subarray-sum) |
@@ -79,4 +80,12 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1306-jump-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
