@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0978-longest-turbulent-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0343-integer-break](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0343-integer-break) |
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [0343-integer-break](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0343-integer-break) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
