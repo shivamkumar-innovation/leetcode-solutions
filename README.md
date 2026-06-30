@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0343-integer-break](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0343-integer-break) |
 | [0978-longest-turbulent-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
 ## Divide and Conquer
 |  |
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Math
+|  |
+| ------- |
+| [0343-integer-break](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0343-integer-break) |
 <!---LeetCode Topics End-->
