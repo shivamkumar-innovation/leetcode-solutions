@@ -88,4 +88,8 @@
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1306-jump-game-iii) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
