@@ -12,6 +12,7 @@
 | [0978-longest-turbulent-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
 | [2765-longest-alternating-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2765-longest-alternating-subarray) |
 | [3026-maximum-good-subarray-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3026-maximum-good-subarray-sum) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,4 +58,8 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0055-jump-game) |
+## Matrix
+|  |
+| ------- |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 <!---LeetCode Topics End-->
