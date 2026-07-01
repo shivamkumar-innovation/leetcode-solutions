@@ -16,6 +16,7 @@
 | [0740-delete-and-earn](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0978-longest-turbulent-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1306-jump-game-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1696-jump-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1696-jump-game-vi) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2765-longest-alternating-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2765-longest-alternating-subarray) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0575-distribute-candies](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0740-delete-and-earn](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0740-delete-and-earn) |
+| [1345-jump-game-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3026-maximum-good-subarray-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3026-maximum-good-subarray-sum) |
 ## Prefix Sum
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1345-jump-game-iv) |
 ## Database
 |  |
 | ------- |
