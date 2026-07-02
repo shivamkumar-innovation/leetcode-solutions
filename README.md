@@ -60,6 +60,7 @@
 | [1871-jump-game-vii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3660-jump-game-ix) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2765-longest-alternating-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2765-longest-alternating-subarray) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## String
 |  |
 | ------- |
@@ -171,6 +173,7 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Two Pointers
 |  |
 | ------- |
