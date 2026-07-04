@@ -30,6 +30,7 @@
 | [1696-jump-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1696-jump-game-vi) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2498-frog-jump-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2498-frog-jump-ii) |
 | [2765-longest-alternating-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2765-longest-alternating-subarray) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -112,6 +113,7 @@
 | [0062-unique-paths](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0343-integer-break](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0343-integer-break) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Greedy
 |  |
 | ------- |
