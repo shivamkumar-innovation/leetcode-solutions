@@ -15,6 +15,7 @@
 | [0135-candy](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0413-arithmetic-slices) |
@@ -59,6 +60,7 @@
 | [0152-maximum-product-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -191,6 +193,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [1027-longest-arithmetic-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2498-frog-jump-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2498-frog-jump-ii) |
