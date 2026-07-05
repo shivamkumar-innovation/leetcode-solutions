@@ -1,3 +1,25 @@
+// class Solution {
+// public:
+// int k=INT_MAX;
+// void f(vector<int>& a,int s,int t,int i,int x,int y){
+//         if(x==y && x==a.size()/2){
+//             k=min(k,abs(s-t));
+//             return ;
+//         }
+//     if(x<a.size()/2){
+//         f(a,s-a[i],t+a[i],i+1,x+1,y);
+//     }
+//     if(y<a.size()/2){
+//         f(a,s,t,i+1,x,y+1);
+//     }
+// }
+//     int minimumDifference(vector<int>& a) {
+//         int s=accumulate(a.begin(),a.end(),0);
+//         f(a,s,0,0,0,0);
+//         return k;
+//     }
+// };
+
 //extremely tough to do this question.
 //initially, i had solved the question but with O(2^n) time complexity but that is not acceptable(TLE) for this problem .
 // so i took help from gpt and optimal time is O(n*2^n) 
