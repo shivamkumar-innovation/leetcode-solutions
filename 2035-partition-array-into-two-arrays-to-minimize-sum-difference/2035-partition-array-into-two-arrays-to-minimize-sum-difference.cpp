@@ -21,7 +21,7 @@
 // };
 
 //extremely tough to do this question.
-//initially, i had solved the question but with O(2^n) time complexity but that is not acceptable(TLE) for this problem .
+//initially, i had solved the question but with O(2^(2n)) time complexity but that is not acceptable(TLE) for this problem .
 // so i took help from gpt and optimal time is O(n*2^n) 
 class Solution {
 public:
