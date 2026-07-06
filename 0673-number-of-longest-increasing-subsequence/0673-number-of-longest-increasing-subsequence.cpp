@@ -1,3 +1,4 @@
+
 class Solution {
 public:
     void f(vector<pair<int,int>>& d, int i, int j) {
@@ -7,7 +8,7 @@ public:
         if (ans > d[i].first) {
             d[i].first = ans;
             d[i].second = d[j].second;
-        }
+        } 
         else if (ans == d[i].first) {
             d[i].second += d[j].second;
         }
@@ -19,7 +20,8 @@ public:
 
         vector<pair<int,int>> d(n, {1,1});
 
-        int mx = 1;
+        int mx = 0;
+        // int k=0;
 
         for (int i = 0; i < n; i++) {
 
@@ -28,16 +30,19 @@ public:
                 if (a[j] < a[i])
                     f(d, i, j);
             }
-
-            mx = max(mx, d[i].first);
         }
 
         int ans = 0;
 
         for (int i = 0; i < n; i++) {
 
-            if (d[i].first == mx)
-                ans += d[i].second;
+            if (d[i].first > mx){
+                mx=d[i].first;
+                ans = d[i].second;
+            }
+            else if(d[i].first == mx){
+                 ans += d[i].second;
+            }
         }
 
         return ans;
