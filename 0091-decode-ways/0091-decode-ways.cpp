@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int f(string a, vector<int>& d, int i) {
+    long long f(string a, vector<long long>& d, int i) {
         if (i < 0)
             return 1;
 
@@ -10,7 +10,7 @@ public:
         if (d[i] != -1)
             return d[i];
 
-        int l = 0, r = 0;
+        long long l = 0, r = 0;
 
         if (a[i] == '0') {
             l = f(a, d, i - 2);
@@ -24,15 +24,15 @@ public:
             r = f(a, d, i - 2);
         }
 
-        if (l == INT_MAX) l = 0;
-        if (r == INT_MAX) r = 0;
+        // if (l == INT_MAX) l = 0;
+        // if (r == INT_MAX) r = 0;
 
         return d[i] = l + r;
     }
 
     int numDecodings(string s) {
-        vector<int> d(s.size(), -1);
-        int ans = f(s, d, s.size() - 1);
-        return ans == INT_MAX ? 0 : ans;
+        vector<long long> d(s.size(), -1);
+        long long ans = f(s, d, s.size() - 1);
+        return ans >= INT_MAX ? 0 : ans;
     }
 };
