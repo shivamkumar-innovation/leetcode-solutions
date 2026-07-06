@@ -42,6 +42,7 @@
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2498-frog-jump-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2498-frog-jump-ii) |
 | [2765-longest-alternating-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2765-longest-alternating-subarray) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -88,6 +89,7 @@
 | [1696-jump-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1696-jump-game-vi) |
 | [1871-jump-game-vii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3660-jump-game-ix) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -193,6 +196,7 @@
 |  |
 | ------- |
 | [1696-jump-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1696-jump-game-vi) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -202,6 +206,7 @@
 |  |
 | ------- |
 | [1696-jump-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1696-jump-game-vi) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -251,8 +256,10 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2407-longest-increasing-subsequence-ii) |
 <!---LeetCode Topics End-->
