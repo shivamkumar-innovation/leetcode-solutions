@@ -59,6 +59,7 @@
 | [0062-unique-paths](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0091-decode-ways](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -130,6 +131,7 @@
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0392-is-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1048-longest-string-chain](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1048-longest-string-chain) |
