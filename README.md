@@ -35,6 +35,7 @@
 | [1027-longest-arithmetic-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1288-remove-covered-intervals](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1306-jump-game-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1345-jump-game-iv) |
@@ -179,6 +180,7 @@
 | [0368-largest-divisible-subset](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [1048-longest-string-chain](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1048-longest-string-chain) |
+| [1288-remove-covered-intervals](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Stack
