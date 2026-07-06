@@ -90,6 +90,7 @@
 | [1696-jump-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1696-jump-game-vi) |
 | [1871-jump-game-vii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3660-jump-game-ix) |
@@ -146,6 +147,7 @@
 | [0368-largest-divisible-subset](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## Greedy
 |  |
 | ------- |
@@ -221,6 +223,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## Backtracking
 |  |
 | ------- |
