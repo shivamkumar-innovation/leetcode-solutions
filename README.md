@@ -169,6 +169,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Greedy
 |  |
 | ------- |
