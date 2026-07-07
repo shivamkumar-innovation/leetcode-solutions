@@ -29,6 +29,7 @@
 | [0575-distribute-candies](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0931-minimum-falling-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
@@ -84,6 +85,7 @@
 | [0518-coin-change-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0931-minimum-falling-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
@@ -162,6 +164,7 @@
 | [0135-candy](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1824-minimum-sideway-jumps](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1824-minimum-sideway-jumps) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2498-frog-jump-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2498-frog-jump-ii) |
