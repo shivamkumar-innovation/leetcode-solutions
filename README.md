@@ -102,6 +102,7 @@
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1696-jump-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1696-jump-game-vi) |
+| [1745-palindrome-partitioning-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1745-palindrome-partitioning-iv) |
 | [1824-minimum-sideway-jumps](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1824-minimum-sideway-jumps) |
 | [1871-jump-game-vii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -154,6 +155,7 @@
 | [0678-valid-parenthesis-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1048-longest-string-chain](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1745-palindrome-partitioning-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1745-palindrome-partitioning-iv) |
 | [1871-jump-game-vii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1871-jump-game-vii) |
 ## Math
 |  |
