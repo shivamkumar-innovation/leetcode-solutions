@@ -108,6 +108,7 @@
 | [1027-longest-arithmetic-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1048-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -166,6 +167,7 @@
 | [0678-valid-parenthesis-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1048-longest-string-chain](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1106-parsing-a-boolean-expression](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
+| [1143-longest-common-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1745-palindrome-partitioning-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1745-palindrome-partitioning-iv) |
 | [1871-jump-game-vii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1871-jump-game-vii) |
