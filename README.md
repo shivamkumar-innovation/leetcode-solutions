@@ -43,6 +43,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1306-jump-game-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1306-jump-game-iii) |
@@ -108,6 +109,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1696-jump-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1696-jump-game-vi) |
@@ -199,6 +201,7 @@
 | [0085-maximal-rectangle](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0931-minimum-falling-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
