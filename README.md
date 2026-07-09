@@ -73,6 +73,7 @@
 | [0062-unique-paths](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0115-distinct-subsequences) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
