@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0055-jump-game) |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0115-distinct-subsequences) |
@@ -205,6 +207,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -337,6 +340,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [1106-parsing-a-boolean-expression](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 ## Monotonic Stack
 |  |
