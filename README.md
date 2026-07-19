@@ -36,6 +36,7 @@
 | [0575-distribute-candies](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0695-max-area-of-island](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0931-minimum-falling-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
@@ -233,6 +234,7 @@
 | [0085-maximal-rectangle](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0221-maximal-square) |
+| [0695-max-area-of-island](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0931-minimum-falling-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -261,6 +263,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1306-jump-game-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
@@ -269,6 +272,7 @@
 | [0279-perfect-squares](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1306-jump-game-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -377,4 +381,5 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
