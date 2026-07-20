@@ -42,6 +42,7 @@
 | [0740-delete-and-earn](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0931-minimum-falling-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
+| [0994-rotting-oranges](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1027-longest-arithmetic-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
@@ -241,6 +242,7 @@
 | [0695-max-area-of-island](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -284,6 +286,7 @@
 | [0547-number-of-provinces](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
