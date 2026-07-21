@@ -126,6 +126,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0740-delete-and-earn) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1027-longest-arithmetic-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
@@ -286,6 +287,7 @@
 | [0547-number-of-provinces](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -302,6 +304,7 @@
 | [0547-number-of-provinces](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -325,6 +328,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1696-jump-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1696-jump-game-vi) |
@@ -374,12 +378,14 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Ordered Set
 |  |
