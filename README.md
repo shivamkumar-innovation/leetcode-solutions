@@ -41,6 +41,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
 | [0994-rotting-oranges](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -129,6 +130,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
@@ -258,6 +260,7 @@
 | [0542-01-matrix](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1020-number-of-enclaves) |
