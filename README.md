@@ -169,6 +169,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0451-sort-characters-by-frequency](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0575-distribute-candies) |
@@ -207,6 +208,7 @@
 | [0072-edit-distance](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0126-word-ladder-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
@@ -319,6 +321,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0207-course-schedule) |
@@ -384,6 +387,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0126-word-ladder-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0494-target-sum) |
 | [1219-path-with-maximum-gold](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1219-path-with-maximum-gold) |
