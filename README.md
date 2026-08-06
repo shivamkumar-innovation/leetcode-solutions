@@ -320,6 +320,7 @@
 | [0200-number-of-islands](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -547,6 +548,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -555,6 +557,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
@@ -564,5 +567,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
