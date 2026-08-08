@@ -19,7 +19,7 @@ public:
     }
 
     int numTrees(int n) {
-        dp.assign(n + 2, vector<int>(n + 2, -1));
+        dp.assign(n + 1, vector<int>(n + 1, -1));
         return f(1, n);
     }
 };
