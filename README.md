@@ -99,6 +99,7 @@
 | [0072-edit-distance](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -241,6 +242,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
@@ -558,6 +560,7 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0113-path-sum-ii) |
@@ -574,6 +577,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0113-path-sum-ii) |
@@ -595,6 +599,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
