@@ -11,6 +11,7 @@
 | [0064-minimum-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Hash Table
 |  |
@@ -563,6 +565,7 @@
 | [0096-unique-binary-search-trees](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -580,6 +583,7 @@
 | [0096-unique-binary-search-trees](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -602,6 +606,7 @@
 | [0096-unique-binary-search-trees](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
