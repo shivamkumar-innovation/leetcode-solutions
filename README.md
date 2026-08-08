@@ -332,6 +332,7 @@
 | [0099-recover-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -366,6 +367,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0126-word-ladder-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -576,6 +578,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
@@ -598,6 +601,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
@@ -641,6 +645,7 @@
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## String Matching
 |  |
 | ------- |
