@@ -318,6 +318,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -552,6 +553,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
@@ -564,6 +566,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
@@ -580,6 +583,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
