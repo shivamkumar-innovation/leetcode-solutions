@@ -362,6 +362,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1192-critical-connections-in-a-network](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1306-jump-game-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1306-jump-game-iii) |
@@ -607,6 +608,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
@@ -637,6 +639,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## DP on Trees
