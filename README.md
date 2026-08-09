@@ -348,6 +348,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0684-redundant-connection) |
+| [0687-longest-univalue-path](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -601,6 +602,7 @@
 | [0572-subtree-of-another-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
+| [0687-longest-univalue-path](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -630,6 +632,7 @@
 | [0572-subtree-of-another-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
+| [0687-longest-univalue-path](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -640,6 +643,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0687-longest-univalue-path](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
