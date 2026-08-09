@@ -154,6 +154,7 @@
 | [1289-minimum-falling-path-sum-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1463-cherry-pickup-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -367,6 +368,7 @@
 | [1192-critical-connections-in-a-network](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1306-jump-game-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -610,6 +612,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -641,12 +644,14 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0687-longest-univalue-path](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0687-longest-univalue-path) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
