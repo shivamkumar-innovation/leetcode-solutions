@@ -18,6 +18,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -453,6 +454,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
@@ -488,6 +490,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
