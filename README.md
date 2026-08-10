@@ -7,6 +7,7 @@
 | [0016-3sum-closest](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0055-jump-game) |
@@ -499,6 +500,7 @@
 | [0016-3sum-closest](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0392-is-subsequence) |
