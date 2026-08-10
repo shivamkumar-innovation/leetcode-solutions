@@ -273,6 +273,7 @@
 | [2101-detonate-the-maximum-bombs](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [3360-stone-removal-game](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Greedy
 |  |
@@ -750,4 +751,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
