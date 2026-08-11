@@ -55,6 +55,7 @@
 | [0827-making-a-large-island](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0905-sort-array-by-parity](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0931-minimum-falling-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
 | [0994-rotting-oranges](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -340,6 +341,7 @@
 | [0435-non-overlapping-intervals](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0905-sort-array-by-parity](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -522,6 +524,7 @@
 | [0392-is-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0905-sort-array-by-parity](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1048-longest-string-chain](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Graph Theory
