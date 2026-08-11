@@ -13,6 +13,7 @@
 | [0055-jump-game](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -339,6 +340,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -521,6 +523,7 @@
 | [0018-4sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -784,4 +787,12 @@
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3360-stone-removal-game) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
