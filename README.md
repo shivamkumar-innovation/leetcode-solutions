@@ -58,6 +58,7 @@
 | [0827-making-a-large-island](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0904-fruit-into-baskets](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0931-minimum-falling-path-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
@@ -214,6 +215,7 @@
 | [0740-delete-and-earn](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0904-fruit-into-baskets](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1027-longest-arithmetic-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
@@ -237,6 +239,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0413-arithmetic-slices](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0567-permutation-in-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0978-longest-turbulent-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
