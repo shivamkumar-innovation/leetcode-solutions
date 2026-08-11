@@ -206,6 +206,7 @@
 | [0127-word-ladder](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0721-accounts-merge) |
@@ -233,6 +234,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0413-arithmetic-slices](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0413-arithmetic-slices) |
+| [0567-permutation-in-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0978-longest-turbulent-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1871-jump-game-vii) |
@@ -262,6 +264,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -537,6 +540,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
