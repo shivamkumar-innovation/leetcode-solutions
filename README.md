@@ -207,6 +207,7 @@
 | [0076-minimum-window-substring](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0127-word-ladder) |
+| [0424-longest-repeating-character-replacement](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -240,6 +241,7 @@
 | [0076-minimum-window-substring](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0413-arithmetic-slices](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0413-arithmetic-slices) |
+| [0424-longest-repeating-character-replacement](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0978-longest-turbulent-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
@@ -270,6 +272,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0344-reverse-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
