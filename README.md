@@ -31,6 +31,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0221-maximal-square) |
+| [0239-sliding-window-maximum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -245,6 +246,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -497,11 +499,13 @@
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [1696-jump-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1696-jump-game-vi) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
@@ -513,6 +517,7 @@
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [1696-jump-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1696-jump-game-vi) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Binary Search
@@ -851,4 +856,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
