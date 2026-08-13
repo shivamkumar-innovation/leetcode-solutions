@@ -92,6 +92,7 @@
 | [1563-stone-game-v](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1690-stone-game-vii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1690-stone-game-vii) |
 | [1696-jump-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1696-jump-game-vi) |
 | [1824-minimum-sideway-jumps](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1824-minimum-sideway-jumps) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -188,6 +189,7 @@
 | [1510-stone-game-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1690-stone-game-vii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1690-stone-game-vii) |
 | [1696-jump-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1696-jump-game-vi) |
 | [1745-palindrome-partitioning-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1745-palindrome-partitioning-iv) |
 | [1824-minimum-sideway-jumps](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1824-minimum-sideway-jumps) |
@@ -341,6 +343,7 @@
 | [1510-stone-game-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1690-stone-game-vii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1690-stone-game-vii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2063-vowels-of-all-substrings](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2101-detonate-the-maximum-bombs](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
@@ -843,6 +846,7 @@
 | [1140-stone-game-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1690-stone-game-vii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1690-stone-game-vii) |
 ## Game Theory
 |  |
 | ------- |
@@ -851,6 +855,7 @@
 | [1406-stone-game-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1690-stone-game-vii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1690-stone-game-vii) |
 ## Nim Game
 |  |
 | ------- |
@@ -866,6 +871,7 @@
 | [1140-stone-game-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1690-stone-game-vii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1690-stone-game-vii) |
 ## Simulation
 |  |
 | ------- |
