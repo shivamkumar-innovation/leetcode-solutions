@@ -282,6 +282,7 @@
 | [0127-word-ladder](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0214-shortest-palindrome](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -800,12 +801,14 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [1392-longest-happy-prefix](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [1392-longest-happy-prefix](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 ## Bidirectional Search
@@ -872,12 +875,14 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
@@ -887,5 +892,10 @@
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
