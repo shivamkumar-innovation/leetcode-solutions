@@ -205,6 +205,7 @@
 | [2063-vowels-of-all-substrings](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2407-longest-increasing-subsequence-ii) |
+| [2745-construct-the-longest-new-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2745-construct-the-longest-new-string) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3660-jump-game-ix) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -358,6 +359,7 @@
 | [2101-detonate-the-maximum-bombs](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [2745-construct-the-longest-new-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2745-construct-the-longest-new-string) |
 | [3360-stone-removal-game](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Greedy
@@ -378,6 +380,7 @@
 | [1824-minimum-sideway-jumps](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1824-minimum-sideway-jumps) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2498-frog-jump-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2498-frog-jump-ii) |
+| [2745-construct-the-longest-new-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2745-construct-the-longest-new-string) |
 ## Matrix
 |  |
 | ------- |
@@ -946,4 +949,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0214-shortest-palindrome) |
+## Brainteaser
+|  |
+| ------- |
+| [2745-construct-the-longest-new-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2745-construct-the-longest-new-string) |
 <!---LeetCode Topics End-->
