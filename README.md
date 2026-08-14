@@ -92,6 +92,7 @@
 | [1563-stone-game-v](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1686-stone-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1690-stone-game-vii) |
 | [1696-jump-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1696-jump-game-vi) |
 | [1824-minimum-sideway-jumps](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1824-minimum-sideway-jumps) |
@@ -346,6 +347,7 @@
 | [1510-stone-game-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1686-stone-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1690-stone-game-vii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1872-stone-game-viii) |
@@ -369,6 +371,7 @@
 | [0680-valid-palindrome-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1686-stone-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1686-stone-game-vi) |
 | [1824-minimum-sideway-jumps](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1824-minimum-sideway-jumps) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2498-frog-jump-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2498-frog-jump-ii) |
@@ -416,6 +419,7 @@
 | [1288-remove-covered-intervals](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1686-stone-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1686-stone-game-vi) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Stack
@@ -541,6 +545,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1686-stone-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1686-stone-game-vi) |
 | [1696-jump-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1696-jump-game-vi) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Monotonic Queue
@@ -850,6 +855,7 @@
 | [1140-stone-game-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1686-stone-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1690-stone-game-vii) |
 | [1872-stone-game-viii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Game Theory
@@ -860,6 +866,7 @@
 | [1406-stone-game-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1686-stone-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1690-stone-game-vii) |
 | [1872-stone-game-viii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Nim Game
@@ -877,6 +884,7 @@
 | [1140-stone-game-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1686-stone-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1690-stone-game-vii) |
 | [1872-stone-game-viii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Simulation
