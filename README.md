@@ -199,6 +199,7 @@
 | [1696-jump-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1696-jump-game-vi) |
 | [1745-palindrome-partitioning-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1745-palindrome-partitioning-iv) |
 | [1824-minimum-sideway-jumps](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1824-minimum-sideway-jumps) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1871-jump-game-vii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1937-maximum-number-of-points-with-cost) |
@@ -249,6 +250,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1345-jump-game-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3026-maximum-good-subarray-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3026-maximum-good-subarray-sum) |
 ## Prefix Sum
@@ -335,6 +337,7 @@
 | [1392-longest-happy-prefix](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1745-palindrome-partitioning-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1745-palindrome-partitioning-iv) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1871-jump-game-vii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2063-vowels-of-all-substrings](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2063-vowels-of-all-substrings) |
 ## Math
@@ -644,6 +647,7 @@
 | [1192-critical-connections-in-a-network](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2101-detonate-the-maximum-bombs](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2101-detonate-the-maximum-bombs) |
@@ -697,6 +701,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Union-Find
 |  |
 | ------- |
@@ -724,6 +729,7 @@
 | [0207-course-schedule](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Biconnected Component
 |  |
@@ -960,4 +966,12 @@
 |  |
 | ------- |
 | [2745-construct-the-longest-new-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2745-construct-the-longest-new-string) |
+## Memoization
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
