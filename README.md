@@ -115,6 +115,7 @@
 | [3142-check-if-grid-satisfies-conditions](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3660-jump-game-ix](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3660-jump-game-ix) |
+| [3840-house-robber-v](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3840-house-robber-v) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -211,6 +212,7 @@
 | [2745-construct-the-longest-new-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2745-construct-the-longest-new-string) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3660-jump-game-ix) |
+| [3840-house-robber-v](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3840-house-robber-v) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Divide and Conquer
 |  |
