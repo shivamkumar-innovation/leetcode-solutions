@@ -107,6 +107,7 @@
 | [2348-number-of-zero-filled-subarrays](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2498-frog-jump-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2498-frog-jump-ii) |
+| [2560-house-robber-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2560-house-robber-iv) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2765-longest-alternating-subarray](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2765-longest-alternating-subarray) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -210,6 +211,7 @@
 | [2063-vowels-of-all-substrings](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2407-longest-increasing-subsequence-ii) |
+| [2560-house-robber-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2560-house-robber-iv) |
 | [2745-construct-the-longest-new-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2745-construct-the-longest-new-string) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3660-jump-game-ix) |
@@ -390,6 +392,7 @@
 | [1824-minimum-sideway-jumps](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1824-minimum-sideway-jumps) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2498-frog-jump-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2498-frog-jump-ii) |
+| [2560-house-robber-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2560-house-robber-iv) |
 | [2745-construct-the-longest-new-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2745-construct-the-longest-new-string) |
 ## Matrix
 |  |
@@ -587,6 +590,7 @@
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2498-frog-jump-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2498-frog-jump-ii) |
+| [2560-house-robber-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2560-house-robber-iv) |
 ## Combinatorics
 |  |
 | ------- |
