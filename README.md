@@ -376,6 +376,7 @@
 | [0343-integer-break](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0441-arranging-coins](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0528-random-pick-with-weight](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -625,6 +626,7 @@
 | [0354-russian-doll-envelopes](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0374-guess-number-higher-or-lower](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0528-random-pick-with-weight](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0611-valid-triangle-number) |
