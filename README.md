@@ -52,6 +52,7 @@
 | [0486-predict-the-winner](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -598,6 +599,7 @@
 | [0287-find-the-duplicate-number](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0436-find-right-interval](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0436-find-right-interval) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0778-swim-in-rising-water](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0981-time-based-key-value-store](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
