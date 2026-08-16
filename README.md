@@ -36,6 +36,7 @@
 | [0213-house-robber-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0275-h-index-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -593,6 +594,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0275-h-index-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0436-find-right-interval](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0436-find-right-interval) |
