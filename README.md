@@ -102,6 +102,7 @@
 | [1345-jump-game-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1406-stone-game-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -461,6 +462,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1686-stone-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1686-stone-game-vi) |
@@ -624,6 +626,7 @@
 | [0981-time-based-key-value-store](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-path-with-minimum-effort](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -679,6 +682,7 @@
 | [0680-valid-palindrome-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1048-longest-string-chain](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1048-longest-string-chain) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Graph Theory
