@@ -622,6 +622,7 @@
 | [0287-find-the-duplicate-number](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
+| [0374-guess-number-higher-or-lower](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0528-random-pick-with-weight](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -1049,4 +1050,8 @@
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
