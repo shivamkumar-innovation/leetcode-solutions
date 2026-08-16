@@ -375,6 +375,7 @@
 | [0096-unique-binary-search-trees](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0343-integer-break) |
+| [0367-valid-perfect-square](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0441-arranging-coins](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0441-arranging-coins) |
@@ -626,6 +627,7 @@
 | [0287-find-the-duplicate-number](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
+| [0367-valid-perfect-square](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0441-arranging-coins) |
