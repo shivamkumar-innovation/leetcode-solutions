@@ -68,6 +68,7 @@
 | [0752-open-the-lock](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0827-making-a-large-island) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -601,6 +602,7 @@
 | [0436-find-right-interval](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0778-swim-in-rising-water](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0981-time-based-key-value-store](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1027-longest-arithmetic-subsequence) |
@@ -1004,4 +1006,8 @@
 |  |
 | ------- |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
