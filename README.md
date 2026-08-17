@@ -278,6 +278,7 @@
 | [1345-jump-game-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3026-maximum-good-subarray-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3026-maximum-good-subarray-sum) |
 ## Prefix Sum
@@ -369,6 +370,7 @@
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1871-jump-game-vii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2063-vowels-of-all-substrings](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2063-vowels-of-all-substrings) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Math
 |  |
 | ------- |
@@ -420,6 +422,7 @@
 | [1686-stone-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1686-stone-game-vi) |
 | [1824-minimum-sideway-jumps](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1824-minimum-sideway-jumps) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2498-frog-jump-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2498-frog-jump-ii) |
 | [2560-house-robber-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2560-house-robber-iv) |
 | [2745-construct-the-longest-new-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2745-construct-the-longest-new-string) |
@@ -489,6 +492,7 @@
 | [0678-valid-parenthesis-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1106-parsing-a-boolean-expression](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Depth-First Search
 |  |
 | ------- |
