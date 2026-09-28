@@ -391,6 +391,7 @@
 | [1140-stone-game-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1492-the-kth-factor-of-n](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
@@ -1078,4 +1079,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0069-sqrtx) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
