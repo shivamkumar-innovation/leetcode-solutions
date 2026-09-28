@@ -45,6 +45,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0403-frog-jump) |
@@ -413,6 +414,7 @@
 | [0055-jump-game](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -1061,6 +1063,7 @@
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
 ## Randomized
 |  |
