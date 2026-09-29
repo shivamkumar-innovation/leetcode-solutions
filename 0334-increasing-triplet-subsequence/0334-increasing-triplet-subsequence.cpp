@@ -25,10 +25,12 @@ public:
 
                 v[l] = a[i];
             }
-
+            if(v.size()==3){
+                return 1;
+            }
             i++;
         }
 
-        return v.size()>=3?1:0;
+        return 0;
         }
 };
