@@ -279,6 +279,7 @@
 | [1345-jump-game-iv](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2336-smallest-number-in-infinite-set](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3026-maximum-good-subarray-sum](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3026-maximum-good-subarray-sum) |
@@ -611,6 +612,7 @@
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1686-stone-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1686-stone-game-vi) |
 | [1696-jump-game-vi](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/1696-jump-game-vi) |
+| [2336-smallest-number-in-infinite-set](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Monotonic Queue
 |  |
@@ -743,6 +745,7 @@
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2336-smallest-number-in-infinite-set](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Bitmask
 |  |
 | ------- |
@@ -918,6 +921,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0981-time-based-key-value-store](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
+| [2336-smallest-number-in-infinite-set](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Iterator
 |  |
 | ------- |
