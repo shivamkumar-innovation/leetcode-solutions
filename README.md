@@ -381,6 +381,7 @@
 | [0062-unique-paths](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0172-factorial-trailing-zeroes](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0279-perfect-squares](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/shivamkumar-innovation/leetcode-solutions/tree/master/0367-valid-perfect-square) |
